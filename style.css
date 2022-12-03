@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color: rgba(86, 159, 255, 0.521);
+color: rgb(95, 5, 197);
+font-size: 20px;
+}
+
+ a  {
+    background-color: rgba(0, 25, 139, 0.205);
+    color: rgba(0, 39, 211, 0.658);
+    font-size: 20px;
+    padding: 7px;
+    height: 20px;
+    width: 15px;
+}
+
+h1 {
+text-align: center;
+background-color: rgba(137, 43, 226, 0.39);
+color: darkorchid;
+border-radius: 20px;
+}
+
+footer {
+    background-color: rgba(203, 3, 243, 0.212);
+}
+
+footer p {
+background-color: rgba(193, 11, 230, 0.664);
+
+}
+
+nav {
+
+    background-color: rgba(187, 155, 218, 0.507);
+    color: blueviolet;
+    text-align: center;
+}
+
+main p {
+    background-color: rgba(234, 0, 255, 0.603);
+}
+
+h2  {
+    text-align: center;
+    color:  blue;
+}
